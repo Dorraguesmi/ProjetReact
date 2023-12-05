@@ -1,0 +1,395 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "reference": "Decoration",
+      "designation": "Decoration",
+      "marque": "Zara",
+      "prixAchat": 20.3,
+      "prixVente": "23",
+      "qtestock": 120,
+      "imageartpetitf": "images/1.webp"
+    },
+    {
+      "id": 2,
+      "reference": "Horse",
+      "designation": "Horse Bois",
+      "marque": "Zara",
+      "prixAchat": 1.2,
+      "prixVente": 1.35,
+      "qtestock": 1000,
+      "imageartpetitf": "images/2.avif"
+    },
+    {
+      "id": 3,
+      "reference": "chandelier",
+      "designation": "chandelier",
+      "marque": "Zara",
+      "prixAchat": 0.39,
+      "prixVente": 0.58,
+      "qtestock": 1000,
+      "imageartpetitf": "images/3.webp"
+    },
+    {
+      "id": 4,
+      "reference": "Chandelle",
+      "designation": "Chandelle",
+      "marque": " Ikea",
+      "prixAchat": 0.7,
+      "prixVente": 0.85,
+      "qtestock": 220,
+      "imageartpetitf": "images/4.webp"
+    },
+    {
+      "id": 5,
+      "reference": "Chandelle",
+      "designation": "Chandelle",
+      "marque": "Ikea",
+      "prixAchat": 1.6,
+      "prixVente": 2.3,
+      "qtestock": 85,
+      "imageartpetitf": "images/5.avif"
+    },
+    {
+      "id": 6,
+      "reference": "Sicamtom",
+      "designation": "Sicam DCT 1/2 SICAM",
+      "marque": "Sicam",
+      "prixAchat": 2.3,
+      "prixVente": 2.5,
+      "qtestock": 85,
+      "caracteristiques": "DCT 1/2 SICAM Ref : 6194055500128",
+      "imageartpetitf": "images/6.webp"
+    },
+    {
+      "id": 7,
+      "reference": "thon",
+      "designation": "El Manar Lot de 3 Thon entier Extra - A l'huile d'olive",
+      "marque": "Elmanar",
+      "prixAchat": 8.9,
+      "prixVente": 12.5,
+      "qtestock": 85,
+      "imageartpetitf": "images/7.webp"
+    },
+    {
+      "id": 8,
+      "reference": "delio",
+      "designation": "Delice Déli'O Menthe - 25Cl",
+      "marque": "Delice",
+      "prixAchat": 0.59,
+      "prixVente": 0.65,
+      "qtestock": 100,
+      "imageartpetitf": "images/8.avif"
+    },
+    {
+      "id": 9,
+      "reference": "Infinix",
+      "designation": "Infinix Smart 5 - 6.6\" - 3 Go - 64 Go - Quetzal Cyan ",
+      "marque": "280",
+      "prixAchat": 300,
+      "prixVente": 349,
+      "qtestock": 25,
+      "imageartpetitf": "images/9.avif"
+    },
+    {
+      "id": 10,
+      "reference": "GalaxyA02",
+      "designation": "Samsung Galaxy A02 s - 6.5\" - 4Go - 64Go - Noir",
+      "marque": "Samsung",
+      "prixAchat": 380,
+      "prixVente": 429,
+      "qtestock": 100,
+      "imageartpetitf": "images/10.webp"
+    },
+    {
+      "id": 11,
+      "reference": "TecnoOC",
+      "designation": "Tecno Spark 6 - 6.8\" - 4 Go - 128 Go",
+      "marque": "Tecno",
+      "prixAchat": 370,
+      "prixVente": 469,
+      "qtestock": 80,
+      "imageartpetitf": "images/11.webp"
+    },
+    {
+      "id": 12,
+      "reference": "A12",
+      "designation": "Samsung Galaxy A12 - 6.5\" - 4 Go - 128 Go",
+      "marque": "Samsung",
+      "prixAchat": 543,
+      "prixVente": 555,
+      "qtestock": 123,
+      "imageartpetitf": "images/12.webp"
+    },
+    {
+      "id": 13,
+      "reference": "Techno4",
+      "designation": "Tecno Pop 4 - 6\"- 2Go - 32Go",
+      "marque": "Tecno",
+      "prixAchat": 220,
+      "prixVente": 269,
+      "qtestock": 85,
+      "imageartpetitf": "images/13.avif"
+    },
+    {
+      "id": 14,
+      "reference": "Nokia1",
+      "designation": "Nokia 1.4 - 6.52\" - 2 Go - 32 Go - Charcoal",
+      "marque": "Nokia",
+      "prixAchat": 250,
+      "prixVente": 285,
+      "qtestock": 100,
+      "imageartpetitf": "images/14.avif"
+    },
+    {
+      "id": 15,
+      "reference": "redmi9",
+      "designation": "XIAOMI Redmi 9 - 6.53\" - 4 Go - 64 Go ",
+      "marque": "Xioami",
+      "prixAchat": 440,
+      "prixVente": 600,
+      "qtestock": 100,
+      "imageartpetitf": "images/15.webp"
+    },
+    {
+      "id": 16,
+      "reference": "Tablog",
+      "designation": "Logicom La Tab Link 71 - 7\"- 16GB",
+      "marque": "Logicom",
+      "prixAchat": 140,
+      "prixVente": 184,
+      "qtestock": 20,
+      "imageartpetitf": "images/16.webp"
+    },
+    {
+      "id": 17,
+      "reference": "Lenoouv1",
+      "designation": "Lenovo Tab M7 7.0 - 16GB",
+      "marque": "Lenouv",
+      "prixAchat": 240,
+      "prixVente": 269,
+      "qtestock": 25,
+      "imageartpetitf": "images/17.webp"
+    },
+    {
+      "id": 18,
+      "reference": "Huawi1",
+      "designation": "Huawei Tablette - MatePad T",
+      "marque": "Huawei",
+      "prixAchat": 299,
+      "prixVente": 384,
+      "qtestock": 10,
+      "imageartpetitf": "images/18.webp"
+    },
+    {
+      "id": 19,
+      "reference": "Huawei10",
+      "designation": "Huawei MatePad T - 10",
+      "marque": "Huawei",
+      "prixAchat": 355,
+      "prixVente": 499,
+      "qtestock": 50,
+      "imageartpetitf": "images/19.webp"
+    },
+    {
+      "id": 20,
+      "reference": "HP1",
+      "designation": "Hp PC Portable - 13.3\" - Intel Core™ i5-7200U",
+      "marque": "Hp",
+      "prixAchat": 3800,
+      "prixVente": 4280,
+      "qtestock": 10,
+      "imageartpetitf": "images/20.webp"
+    },
+    {
+      "id": 21,
+      "reference": "lenov1",
+      "designation": "Lenovo PC Portable ThinkBook - i3 10è Gén-4Go-1To-Gris",
+      "marque": "Lenovo",
+      "prixAchat": 1100,
+      "prixVente": 1299,
+      "qtestock": 20,
+      "imageartpetitf": "images/21.webp"
+    },
+    {
+      "id": 22,
+      "reference": "Lenov22",
+      "designation": "Lenovo PC Portable IP330/4000 DualCore/4Go/1To",
+      "marque": "Lenovo",
+      "prixAchat": 840,
+      "prixVente": 899,
+      "qtestock": 10,
+      "imageartpetitf": "images/22.webp"
+    },
+    {
+      "id": 23,
+      "reference": "Dell5570",
+      "designation": "DELL PC Inspiron 5570",
+      "marque": "DELL",
+      "prixAchat": 2200,
+      "prixVente": 2470,
+      "qtestock": 10,
+      "imageartpetitf": "images/23.webp"
+    },
+    {
+      "id": 24,
+      "reference": "VersusVBOO",
+      "designation": "Versus Pc portable V-Book - 2 Go",
+      "marque": "Versus",
+      "prixAchat": 300,
+      "prixVente": 469,
+      "qtestock": 50,
+      "imageartpetitf": "images/24.webp"
+    },
+    {
+      "id": 25,
+      "reference": "HPI3",
+      "designation": "Hp Pc portable I3 11è Gén 8Go",
+      "marque": "Hp",
+      "prixAchat": 1200,
+      "prixVente": 1533,
+      "qtestock": 20,
+      "imageartpetitf": "images/25.webp"
+    },
+    {
+      "id": 26,
+      "reference": "Dell2C",
+      "designation": "Pc Montage - Core 2 DUO - 4Go - 320Go ",
+      "marque": "DELL",
+      "prixAchat": 488,
+      "prixVente": 599,
+      "qtestock": 25,
+      "imageartpetitf": "images/26.webp"
+    },
+    {
+      "id": 27,
+      "reference": "Samsung5300",
+      "designation": "Samsung Téléviseur 43\" - Flat Smart Full HD TV",
+      "marque": "Samsung",
+      "prixAchat": 1100,
+      "prixVente": 1399,
+      "qtestock": 10,
+      "imageartpetitf": "images/27.webp"
+    },
+    {
+      "id": 28,
+      "reference": "condor1",
+      "designation": "Condor Smart 43SD520 Android v9.0",
+      "marque": "Condor",
+      "prixAchat": 880,
+      "prixVente": 1090,
+      "qtestock": 10,
+      "imageartpetitf": "images/28.avif"
+    },
+    {
+      "id": 30,
+      "reference": "E20",
+      "designation": "Telefunken TV 43\" - E20 - LED - Full HD",
+      "marque": "Telefunken",
+      "prixAchat": 890,
+      "prixVente": 1120,
+      "qtestock": 10,
+      "imageartpetitf": "images/29.avif"
+    },
+    {
+      "id": 31,
+      "reference": "LG1",
+      "designation": "LG TV LG 4K Smart UHD UN73 de 43 pouces",
+      "marque": "1300",
+      "prixAchat": null,
+      "prixVente": 1459,
+      "qtestock": 10,
+      "imageartpetitf": "images/30.webp"
+    },
+    {
+      "id": 32,
+      "reference": "UA43N5300",
+      "designation": "Samsung Tv - 43\" Full HD Smart N5300",
+      "marque": "1200",
+      "prixAchat": 1100,
+      "prixVente": 1429,
+      "qtestock": 10,
+      "imageartpetitf": "images/31.webp"
+    },
+    {
+      "id": 33,
+      "reference": "TU7100",
+      "designation": "Samsung TV Crystal UHD 50 pouces ",
+      "marque": "Samsung",
+      "prixAchat": 1900,
+      "prixVente": 2100,
+      "qtestock": 1920,
+      "imageartpetitf": "images/32.webp"
+    },
+    {
+      "id": 34,
+      "reference": "curved1",
+      "designation": "Samsung Curved TV 65 4K UHD",
+      "marque": "Samsung",
+      "prixAchat": 4200,
+      "prixVente": 5299,
+      "qtestock": 10,
+      "imageartpetitf": "images/33.webp"
+    },
+    {
+      "id": 35,
+      "reference": "Sams55",
+      "designation": "Samsung Téléviseur 55\" LED ULTRA HD 4K Smart tv",
+      "marque": "Samsung",
+      "prixAchat": 2200,
+      "prixVente": 2999,
+      "qtestock": 10,
+      "imageartpetitf": "images/34.webp"
+    },
+    {
+      "id": 36,
+      "reference": "RU7100",
+      "designation": "Samsung Smart 4K TV UHD - 65\" ",
+      "marque": "Samsung",
+      "prixAchat": 4200,
+      "prixVente": 4399,
+      "qtestock": 10,
+      "imageartpetitf": "images/35.webp"
+    },
+    {
+      "id": 37,
+      "reference": "Home 360",
+      "designation": "XIAOMI Caméra de sécurité XIAOMI Home 360",
+      "marque": "XIAOMI",
+      "prixAchat": 100,
+      "prixVente": 119,
+      "qtestock": 20,
+      "imageartpetitf": "images/36.webp"
+    },
+    {
+      "id": 38,
+      "reference": "pw1",
+      "designation": "Power résistance bands",
+      "marque": "m",
+      "prixAchat": 50,
+      "prixVente": 73,
+      "qtestock": 10,
+      "imageartpetitf": "images/37.webp"
+    },
+    {
+      "id": 39,
+      "reference": "flash1",
+      "designation": "Sandisk Flash Disque",
+      "marque": "Sandisk",
+      "prixAchat": 9,
+      "prixVente": 14,
+      "qtestock": 100,
+      "imageartpetitf": "images/38.webp"
+    },
+    {
+      "id": 40,
+      "reference": "Gym1",
+      "designation": "Iron Gym Barre fixe démontable",
+      "marque": "Iron Gym",
+      "prixAchat": 69,
+      "prixVente": 75,
+      "qtestock": 100,
+      "imageartpetitf": "images/39.webp"
+    }
+  ]
+}
